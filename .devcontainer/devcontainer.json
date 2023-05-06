@@ -49,10 +49,12 @@
 				"ms-vscode.vscode-typescript-next",
 				"christian-kohler.path-intellisense",
 				"mgmcdermott.vscode-language-babel",
+				"donjayamanne.python-extension-pack",
 				"ms-python.isort",
 				"magicstack.MagicPython",
-				"donjayamanne.python-extension-pack",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"esbenp.prettier-vscode",
+				"rvest.vs-code-prettier-eslint"
 			]
 		}
 	}

@@ -24,4 +24,6 @@ COPY .zsh /home/node/.zsh
 RUN chmod a+x ~/.zshrc
 RUN chsh -s ~/.zshrc
 
+RUN sudo apt-get update && sudo apt-get install gnupg2 -y
+
 CMD ["zsh"]
